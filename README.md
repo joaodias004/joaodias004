@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @joaodias004
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
 - 📫 How to reach me dias.joao.v04@gmail.com
 - 😄 Pronouns: He/Him
 
